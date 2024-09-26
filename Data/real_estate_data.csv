@@ -1,0 +1,11 @@
+Location,Area,Bedrooms,Bathrooms,Age,Type,Price
+Bangalore,1500,3,2,5,Apartment,500000
+Mumbai,1200,2,2,10,Apartment,750000
+Delhi,1800,3,3,3,Villa,1200000
+Hyderabad,1300,2,2,8,Apartment,600000
+Pune,1100,2,2,6,Apartment,450000
+Chennai,1600,3,3,7,Villa,800000
+Kolkata,2000,4,4,2,Villa,1500000
+Bangalore,1400,2,2,4,Apartment,550000
+Mumbai,1700,3,3,6,Apartment,1000000
+Hyderabad,2200,4,4,1,Villa,1300000
